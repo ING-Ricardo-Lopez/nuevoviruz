@@ -53,7 +53,7 @@ const shimmerConfig: ShimmerConfig = {
   ambientWidth: 0.34,
   shadowMix: 0.1,
   primaryMix: 0.3,
-  originX: 4.5,
+  originX: 24.5,
   originY: 13.5,
 }
 
